@@ -14,9 +14,45 @@
       "!type": "External",
       "file": [
         "forms",
-        "favExercises",
+        "ABfavExercises",
         "Elements",
         "selExercises.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnMobile.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "mod1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "ABfavExercises",
+        "Elements",
+        "btnMod.json"
       ]
     }
   ],
@@ -26,7 +62,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "favExercises",
+  "id": "ABfavExercises",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
